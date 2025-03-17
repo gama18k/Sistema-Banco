@@ -6,7 +6,7 @@ Este projeto implementa um sistema bancário simples utilizando Python. Ele perm
 ## Estrutura do Projeto
 
 ```
-projeto_banco/
+Sistema-Banco/
 │── conta.py    # Classe Conta (POO)
 │── data.py     # Classe Data para formatação de datas
 │── banco.py    # Implementação procedural com funções
